@@ -14,4 +14,3 @@ docker cp [CONTAINER ID]:/app/temperartures.db .
 
 The DHT11 has three pins: + S - which are wired to the following pins on the Raspberry Pi 1, 12 & 6 (which I think you can largely summarise as 3.3V, input channel 18 and ground)
 
-TODO: move everything to the /app directory
