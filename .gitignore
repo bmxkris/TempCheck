@@ -1,0 +1,3 @@
+# files to ignore because they're produced by the script
+temperartures.db
+index.html
