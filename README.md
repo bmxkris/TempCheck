@@ -1,7 +1,7 @@
 # TempCheck
-Use docker and a Raspberry Pi to monitor temperature of a room
+Use docker, a Raspberry Pi and a DHT11 sensor to monitor temperature of a room
 
-To build the docker iamge:
+To build the docker image:
 docker build -t "docker_tempcheck" .
 
 To run this image use the command:
